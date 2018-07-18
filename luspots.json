@@ -58,7 +58,7 @@
   {
     "id": 215,
     "name": "Laron Residence",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/jeskkyy18/lu-spots/master/images/bahay.png",
     "price": 90,
     "priceCurrency": "PHP",
     "lat": 16.32410881265327,
