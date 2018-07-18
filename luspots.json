@@ -54,5 +54,14 @@
     "priceCurrency": "PHP",
     "lat": 16.3247042,
     "lng": 120.3550808
+  },
+  {
+    "id": 215,
+    "name": "Laron Residence",
+    "imageUrl": "",
+    "price": 90,
+    "priceCurrency": "PHP",
+    "lat": 16.32410881265327,
+    "lng": 120.3526100661835
   }
 ]
