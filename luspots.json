@@ -1,5 +1,59 @@
 [
   {
+    "id": 130,
+    "name": "St. William the Hermit Cathedral Parish",
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP-S27WFmgvsk_nhciPaH29X-8DVyzuiG9DM_rK=s1600-w400",
+    "price": 100,
+    "priceCurrency": "PHP",
+    "lat": 16.6158,
+    "lng": 120.3175
+  },
+  {
+    "id": 134,
+    "name": "Poro Point Lighthouse",
+    "imageUrl": "https://outoftownblog.com/wp-content/uploads/2014/04/Poro-Point-Light-House.jpg",
+    "price": 100,
+    "priceCurrency": "PHP",
+    "lat": 16.6149,
+    "lng": 120.2808
+  },
+  {
+    "id": 136,
+    "name": "Bahay na Bato",
+    "imageUrl": "http://chooseweb.s3.amazonaws.com/ckeditor/xtadlc/2016/01/19/bahay-na-bato-2.JPG",
+    "price": 100,
+    "priceCurrency": "PHP",
+    "lat": 16.3210,
+    "lng": 120.4812
+  },
+  {
+    "id": 138,
+    "name": "Tapuakan River",
+    "imageUrl": "https://lh5.googleusercontent.com/proxy/H-nbmW6ZZBs5Il9zRL-u4saRhAXJgSpI7de1gsgfSCdhoAQPGfbdBoVrefpIvyeCcFp3sxeok-jPuwoUzW_Qj9EgxlYx7k_RDI_d2Uf935GfsqmCd3CIC25DEIQPXQMDUsbYr3uq8qRn0spNcap_5PhLEfFld3A=w139-h78-k-no",
+    "price": 100,
+    "priceCurrency": "PHP",
+    "lat": 16.3210,
+    "lng": 120.4812
+  },
+  {
+    "id": 140,
+    "name": "Immuki Island",
+    "imageUrl": "https://wanderrish.files.wordpress.com/2018/03/15400526_10210252153612644_6802961693149719557_n.jpg?w=960",
+    "price": 60,
+    "priceCurrency": "PHP",
+    "lat": 16.8029,
+    "lng": 120.3255
+  },
+  {
+    "id": 142,
+    "name": "Baluarte Watch Tower",
+    "imageUrl": "http://www.greedypeg.net/p/2017/06/25/52345_1.jpg",
+    "price": 70,
+    "priceCurrency": "PHP",
+    "lat": 16.8568,
+    "lng": 120.3729
+  },
+  {
     "id": 145,
     "name": "Tangadan Falls",
     "imageUrl": "https://cdn.looloo.com/photos/reviews/252710/large_square/1448466883.jpg?1452570057",
