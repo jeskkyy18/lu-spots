@@ -2,55 +2,57 @@
   {
     "id": 145,
     "name": "Tangadan Falls",
-    "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/01/TangadanFalls_07.jpg",
-    "price": 164,
-    "priceCurrency": "EUR",
-    "lat": 16.6324054,
-    "lng": 120.3177023
+    "imageUrl": "https://cdn.looloo.com/photos/reviews/252710/large_square/1448466883.jpg?1452570057",
+    "price": 50,
+    "priceCurrency": "PHP",
+    "lat": 16.64357769999999,
+    "lng": 120.44879079999998
   },
-  {
+  
+   {
     "id": 148,
-    "name": "Trendy Apt in Buttes Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
-    "price": 200,
-    "priceCurrency": "EUR",
-    "lat": 48.885707,
-    "lng": 2.343543
+    "name": "Ma-Cho Temple",
+    "imageUrl": "https://www.travelbook.ph/blog/cms/wp-content/uploads/old-site/gallery/12_la_union_san_fernando_ma_cho_temple_betty_tianco.jpg",
+    "price": 20,
+    "priceCurrency": "PHP",
+    "lat": 16.6209137,
+    "lng": 120.31712279999999
   },
+ 
   {
     "id": 201,
-    "name": "Super 60m2 in trendy neighborhood!",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
+    "name": "Pindangan Ruins",
+    "imageUrl": "https://foodietraveller.files.wordpress.com/2013/04/p1010532.jpg?w=663&h=442",
     "price": 150,
-    "priceCurrency": "EUR",
-    "lat": 48.885312,
-    "lng": 2.341225
+    "priceCurrency": "PHP",
+    "lat": 16.5881403,
+    "lng": 120.31459840000002
   },
   {
     "id": 205,
-    "name": "Splendide terrasse vue imprenable",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
+    "name": "Tuddingan Falls",
+    "imageUrl": "https://www.vigattintourism.com/assets/article_main_photos/optimize/1347697116x66Ar4TG.jpg",
     "price": 115,
-    "priceCurrency": "EUR",
-    "lat": 48.881840,
-    "lng": 2.343371
+    "priceCurrency": "PHP",
+    "lat": 16.5752027,
+    "lng": 120.41743040000006
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
+    "name": "Occalong Falls",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0c/40/f5/c1/occalong-falls-during.jpg",
     "price": 135,
-    "priceCurrency": "EUR",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "priceCurrency": "PHP",
+    "lat": 16.7994801,
+    "lng": 120.35741329999996
   },
   {
-    "id": 211,
-    "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
-    "price": 90,
-    "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "id": 215,
+    "name": "Basilica Minore of Our Lady of Charity",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/8f/c2/this-location-is-only.jpg",
+    "price": 135,
+    "priceCurrency": "PHP",
+    "lat": 16.3247042,
+    "lng": 120.3550808
   }
 ]
