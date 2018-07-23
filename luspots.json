@@ -6,7 +6,8 @@
     "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.6158,
-    "lng": 120.3175
+    "lng": 120.3175,
+    "loc": "San Fernando City"
   },
   {
     "id": 134,
@@ -15,7 +16,8 @@
     "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.6149,
-    "lng": 120.2808
+    "lng": 120.2808,
+    "loc": "San Fernando City"
   },
   {
     "id": 136,
@@ -24,7 +26,8 @@
     "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.6204,
-    "lng": 120.3190
+    "lng": 120.3190,
+    "loc": "San Fernando City"
   },
   {
     "id": 138,
@@ -33,7 +36,8 @@
     "price": 20,
     "priceCurrency": "PHP",
     "lat": 16.3210,
-    "lng": 120.4812
+    "lng": 120.4812,
+    "loc": "Pugo"
   },
   {
     "id": 140,
@@ -42,7 +46,8 @@
     "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.8029,
-    "lng": 120.3255
+    "lng": 120.3255,
+    "loc": "Balaoan"
   },
   {
     "id": 142,
@@ -51,7 +56,8 @@
     "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.8568,
-    "lng": 120.3729
+    "lng": 120.3729,
+    "loc": "Luna"
   },
   {
     "id": 145,
@@ -60,7 +66,8 @@
     "price": 50,
     "priceCurrency": "PHP",
     "lat": 16.64357769999999,
-    "lng": 120.44879079999998
+    "lng": 120.44879079999998,
+    "loc": "San Gabriel"
   },
   
    {
@@ -70,7 +77,8 @@
     "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.6209137,
-    "lng": 120.31712279999999
+    "lng": 120.31712279999999,
+     "loc": "San Fernando City"
   },
  
   {
@@ -80,7 +88,9 @@
     "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.5881403,
-    "lng": 120.31459840000002
+    "lng": 120.31459840000002,
+    "loc": "San Fernando City"
+
   },
   {
     "id": 205,
@@ -89,7 +99,8 @@
     "price": 20,
     "priceCurrency": "PHP",
     "lat": 16.5752027,
-    "lng": 120.41743040000006
+    "lng": 120.41743040000006,
+    "loc": "Naguilian"
   },
   {
     "id": 210,
@@ -98,7 +109,8 @@
     "price": 20,
     "priceCurrency": "PHP",
     "lat": 16.7994801,
-    "lng": 120.35741329999996
+    "lng": 120.35741329999996,
+    "loc": "Luna"
   },
   {
     "id": 215,
@@ -107,7 +119,9 @@
     "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.3247042,
-    "lng": 120.3550808
+    "lng": 120.3550808,
+    "loc": "Agoo"
+
   },
   {
     "id": 215,
@@ -116,6 +130,7 @@
     "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.32410881265327,
-    "lng": 120.3526100661835
+    "lng": 120.3526100661835,
+    "loc": "Agoo"
   }
 ]
