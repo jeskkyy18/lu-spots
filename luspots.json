@@ -1,16 +1,46 @@
 [
   {
-    "id": 130,
-    "name": "St. William the Hermit Cathedral Parish",
-    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP-S27WFmgvsk_nhciPaH29X-8DVyzuiG9DM_rK=s1600-w400",
+    "id": 13,
+    "name": "Boracay",
+    "imageUrl": "https://s-ec.bstatic.com/images/hotel/max1280x900/109/109903193.jpg",
     "price": 0,
     "priceCurrency": "Km",
-    "lat": 16.6158,
-    "lng": 120.3175,
-    "loc": "San Fernando City"
+    "lat": 11.967939,
+    "lng": 121.920340,
+    "loc": "Aklan"
   },
   {
-    "id": 134,
+    "id": 14,
+    "name": "Mactan",
+    "imageUrl": "",
+    "price": 0,
+    "priceCurrency": "Km",
+    "lat": ,
+    "lng": ,
+    "loc": "Cebu"
+  },
+  {
+    "id": 15,
+    "name": "Puerto Princesa",
+    "imageUrl": "",
+    "price": 0,
+    "priceCurrency": "Km",
+    "lat": ,
+    "lng": ,
+    "loc": "Palawan"
+  },
+  {
+    "id": 16,
+    "name": "Chocolate Hills",
+    "imageUrl": "",
+    "price": 0,
+    "priceCurrency": "Km",
+    "lat": ,
+    "lng": ,
+    "loc": "Bohol"
+  },
+  {
+    "id": 2,
     "name": "Poro Point Lighthouse",
     "imageUrl": "https://outoftownblog.com/wp-content/uploads/2014/04/Poro-Point-Light-House.jpg",
     "price": 0,
@@ -20,27 +50,7 @@
     "loc": "San Fernando City"
   },
   {
-    "id": 136,
-    "name": "Christ the Redeemer",
-    "imageUrl": "https://lh4.googleusercontent.com/proxy/wQKJNA_XoXxqbz_ozjmInUm-WLdhnwe64g_VSLxj5ZDK16AKpapT461BPyYDw1t9emBakPXW3SyXBBzwWTKEJsgEw0xhQg41i87ytj0Mn3MEhghOIGvEqIp7CQULqa8wtJux2zxPYATAOXQFOBzqSNcWbVQubuI=w139-h93-k-no",
-    "price": 0,
-    "priceCurrency": "Km",
-    "lat": 16.6204,
-    "lng": 120.3190,
-    "loc": "San Fernando City"
-  },
-  {
-    "id": 138,
-    "name": "Tapuakan River",
-    "imageUrl": "https://lh5.googleusercontent.com/proxy/H-nbmW6ZZBs5Il9zRL-u4saRhAXJgSpI7de1gsgfSCdhoAQPGfbdBoVrefpIvyeCcFp3sxeok-jPuwoUzW_Qj9EgxlYx7k_RDI_d2Uf935GfsqmCd3CIC25DEIQPXQMDUsbYr3uq8qRn0spNcap_5PhLEfFld3A=w139-h78-k-no",
-    "price": 20,
-    "priceCurrency": "Km",
-    "lat": 16.3210,
-    "lng": 120.4812,
-    "loc": "Pugo"
-  },
-  {
-    "id": 140,
+    "id": 5,
     "name": "Immuki Island",
     "imageUrl": "https://wanderrish.files.wordpress.com/2018/03/15400526_10210252153612644_6802961693149719557_n.jpg?w=960",
     "price": 0,
@@ -50,7 +60,7 @@
     "loc": "Balaoan"
   },
   {
-    "id": 142,
+    "id": 6,
     "name": "Baluarte Watch Tower",
     "imageUrl": "http://www.greedypeg.net/p/2017/06/25/52345_1.jpg",
     "price": 0,
@@ -60,7 +70,7 @@
     "loc": "Luna"
   },
   {
-    "id": 145,
+    "id": 7,
     "name": "Tangadan Falls",
     "imageUrl": "https://cdn.looloo.com/photos/reviews/252710/large_square/1448466883.jpg?1452570057",
     "price": 50,
@@ -71,7 +81,7 @@
   },
   
    {
-    "id": 148,
+    "id": 8,
     "name": "Ma-Cho Temple",
     "imageUrl": "https://www.travelbook.ph/blog/cms/wp-content/uploads/old-site/gallery/12_la_union_san_fernando_ma_cho_temple_betty_tianco.jpg",
     "price": 0,
@@ -80,30 +90,8 @@
     "lng": 120.31712279999999,
      "loc": "San Fernando City"
   },
- 
   {
-    "id": 201,
-    "name": "Pindangan Ruins",
-    "imageUrl": "https://foodietraveller.files.wordpress.com/2013/04/p1010532.jpg?w=663&h=442",
-    "price": 0,
-    "priceCurrency": "Km",
-    "lat": 16.5881403,
-    "lng": 120.31459840000002,
-    "loc": "San Fernando City"
-
-  },
-  {
-    "id": 205,
-    "name": "Tuddingan Falls",
-    "imageUrl": "https://www.vigattintourism.com/assets/article_main_photos/optimize/1347697116x66Ar4TG.jpg",
-    "price": 20,
-    "priceCurrency": "Km",
-    "lat": 16.5752027,
-    "lng": 120.41743040000006,
-    "loc": "Naguilian"
-  },
-  {
-    "id": 210,
+    "id": 11,
     "name": "Occalong Falls",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0c/40/f5/c1/occalong-falls-during.jpg",
     "price": 20,
@@ -113,7 +101,7 @@
     "loc": "Luna"
   },
   {
-    "id": 215,
+    "id": 12,
     "name": "Basilica Minore of Our Lady of Charity",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/8f/c2/this-location-is-only.jpg",
     "price": 0,
@@ -122,18 +110,189 @@
     "lng": 120.3550808,
     "loc": "Agoo"
   },
+  
   {
-    "id": 217,
-    "name": "Boracay",
-    "imageUrl": "https://s-ec.bstatic.com/images/hotel/max1280x900/109/109903193.jpg",
+    "id": 16,
+    "name": "Coron Island",
+    "imageUrl": "",
     "price": 0,
     "priceCurrency": "Km",
-    "lat": 11.967939,
-    "lng": 121.920340,
-    "loc": "Agoo"
+    "lat": ,
+    "lng": ,
+    "loc": "Palawan"
   },
   {
-    "id": 215,
+    "id": 17,
+    "name": "Siargao",
+    "imageUrl": "",
+    "price": 0,
+    "priceCurrency": "Km",
+    "lat": ,
+    "lng": ,
+    "loc": "Surigao del Norte"
+  },
+  {
+    "id": 18,
+    "name": "Rizal Park",
+    "imageUrl": "",
+    "price": 0,
+    "priceCurrency": "Km",
+    "lat": ,
+    "lng": ,
+    "loc": "Luneta, Manila"
+  },
+  {
+    "id": 19,
+    "name": "Taal Volcano",
+    "imageUrl": "",
+    "price": 0,
+    "priceCurrency": "Km",
+    "lat": ,
+    "lng": ,
+    "loc": "Batangas"
+  },
+  {
+    "id": 20,
+    "name": "Banaue Rice Terraces",
+    "imageUrl": "",
+    "price": 0,
+    "priceCurrency": "Km",
+    "lat": ,
+    "lng": ,
+    "loc": "Ifugao"
+  },
+  {
+    "id": 21,
+    "name": "Manila Bay",
+    "imageUrl": "",
+    "price": 0,
+    "priceCurrency": "Km",
+    "lat": ,
+    "lng": ,
+    "loc": "Manila"
+  },
+  {
+    "id": 22,
+    "name": "Hundred Islands",
+    "imageUrl": "",
+    "price": 0,
+    "priceCurrency": "Km",
+    "lat": ,
+    "lng": ,
+    "loc": "Alaminos"
+  },
+  {
+    "id": 23,
+    "name": "Mayon Volcano",
+    "imageUrl": "",
+    "price": 0,
+    "priceCurrency": "Km",
+    "lat": ,
+    "lng": ,
+    "loc": "Albay"
+  },
+  {
+    "id": 24,
+    "name": "Fort Santiago",
+    "imageUrl": "",
+    "price": 0,
+    "priceCurrency": "Km",
+    "lat": ,
+    "lng": ,
+    "loc": "Manila"
+  },
+  {
+    "id": 25,
+    "name": "Corregidor",
+    "imageUrl": "",
+    "price": 0,
+    "priceCurrency": "Km",
+    "lat": ,
+    "lng": ,
+    "loc": "Cavite"
+  },
+  {
+    "id": 26,
+    "name": "Magellan's Cross",
+    "imageUrl": "",
+    "price": 0,
+    "priceCurrency": "Km",
+    "lat": ,
+    "lng": ,
+    "loc": "Cebu"
+  },
+  {
+    "id": 27,
+    "name": "National Museum of the Philippines",
+    "imageUrl": "",
+    "price": 0,
+    "priceCurrency": "Km",
+    "lat": ,
+    "lng": ,
+    "loc": "Manila"
+  },
+  {
+    "id": 28,
+    "name": "Mount Apo",
+    "imageUrl": "",
+    "price": 0,
+    "priceCurrency": "Km",
+    "lat": ,
+    "lng": ,
+    "loc": "Cotabato"
+  },
+  {
+    "id": 29,
+    "name": "Burnham Park",
+    "imageUrl": "",
+    "price": 0,
+    "priceCurrency": "Km",
+    "lat": ,
+    "lng": ,
+    "loc": "Baguio"
+  },
+  {
+    "id": 30,
+    "name": "Villa Escudero",
+    "imageUrl": "",
+    "price": 0,
+    "priceCurrency": "Km",
+    "lat": ,
+    "lng": ,
+    "loc": "San Pablo City"
+  },
+  {
+    "id": 31,
+    "name": "Mines View Park",
+    "imageUrl": "",
+    "price": 0,
+    "priceCurrency": "Km",
+    "lat": ,
+    "lng": ,
+    "loc": "Baguio"
+  },
+  {
+    "id": 32,
+    "name": "Cagsawa Ruins",
+    "imageUrl": "",
+    "price": 0,
+    "priceCurrency": "Km",
+    "lat": ,
+    "lng": ,
+    "loc": "Albay"
+  },
+  {
+    "id": 20,
+    "name": "Banaue Rice Terraces",
+    "imageUrl": "",
+    "price": 0,
+    "priceCurrency": "Km",
+    "lat": ,
+    "lng": ,
+    "loc": "Ifugao"
+  },
+  {
+    "id": 35,
     "name": "Laron Residence",
     "imageUrl": "https://raw.githubusercontent.com/jeskkyy18/lu-spots/master/images/bahay.png",
     "price": 0,
