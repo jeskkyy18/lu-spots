@@ -4,7 +4,7 @@
     "name": "St. William the Hermit Cathedral Parish",
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP-S27WFmgvsk_nhciPaH29X-8DVyzuiG9DM_rK=s1600-w400",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 16.6158,
     "lng": 120.3175,
     "loc": "San Fernando City"
@@ -14,7 +14,7 @@
     "name": "Poro Point Lighthouse",
     "imageUrl": "https://outoftownblog.com/wp-content/uploads/2014/04/Poro-Point-Light-House.jpg",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 16.6149,
     "lng": 120.2808,
     "loc": "San Fernando City"
@@ -24,7 +24,7 @@
     "name": "Christ the Redeemer",
     "imageUrl": "https://lh4.googleusercontent.com/proxy/wQKJNA_XoXxqbz_ozjmInUm-WLdhnwe64g_VSLxj5ZDK16AKpapT461BPyYDw1t9emBakPXW3SyXBBzwWTKEJsgEw0xhQg41i87ytj0Mn3MEhghOIGvEqIp7CQULqa8wtJux2zxPYATAOXQFOBzqSNcWbVQubuI=w139-h93-k-no",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 16.6204,
     "lng": 120.3190,
     "loc": "San Fernando City"
@@ -34,7 +34,7 @@
     "name": "Tapuakan River",
     "imageUrl": "https://lh5.googleusercontent.com/proxy/H-nbmW6ZZBs5Il9zRL-u4saRhAXJgSpI7de1gsgfSCdhoAQPGfbdBoVrefpIvyeCcFp3sxeok-jPuwoUzW_Qj9EgxlYx7k_RDI_d2Uf935GfsqmCd3CIC25DEIQPXQMDUsbYr3uq8qRn0spNcap_5PhLEfFld3A=w139-h78-k-no",
     "price": 20,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 16.3210,
     "lng": 120.4812,
     "loc": "Pugo"
@@ -44,7 +44,7 @@
     "name": "Immuki Island",
     "imageUrl": "https://wanderrish.files.wordpress.com/2018/03/15400526_10210252153612644_6802961693149719557_n.jpg?w=960",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 16.8029,
     "lng": 120.3255,
     "loc": "Balaoan"
@@ -54,7 +54,7 @@
     "name": "Baluarte Watch Tower",
     "imageUrl": "http://www.greedypeg.net/p/2017/06/25/52345_1.jpg",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 16.856917,
     "lng": 120.373028,
     "loc": "Luna"
@@ -64,7 +64,7 @@
     "name": "Tangadan Falls",
     "imageUrl": "https://cdn.looloo.com/photos/reviews/252710/large_square/1448466883.jpg?1452570057",
     "price": 50,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 16.64357769999999,
     "lng": 120.44879079999998,
     "loc": "San Gabriel"
@@ -75,7 +75,7 @@
     "name": "Ma-Cho Temple",
     "imageUrl": "https://www.travelbook.ph/blog/cms/wp-content/uploads/old-site/gallery/12_la_union_san_fernando_ma_cho_temple_betty_tianco.jpg",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 16.6209137,
     "lng": 120.31712279999999,
      "loc": "San Fernando City"
@@ -86,7 +86,7 @@
     "name": "Pindangan Ruins",
     "imageUrl": "https://foodietraveller.files.wordpress.com/2013/04/p1010532.jpg?w=663&h=442",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 16.5881403,
     "lng": 120.31459840000002,
     "loc": "San Fernando City"
@@ -97,7 +97,7 @@
     "name": "Tuddingan Falls",
     "imageUrl": "https://www.vigattintourism.com/assets/article_main_photos/optimize/1347697116x66Ar4TG.jpg",
     "price": 20,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 16.5752027,
     "lng": 120.41743040000006,
     "loc": "Naguilian"
@@ -107,7 +107,7 @@
     "name": "Occalong Falls",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0c/40/f5/c1/occalong-falls-during.jpg",
     "price": 20,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 16.7994801,
     "lng": 120.35741329999996,
     "loc": "Luna"
@@ -117,18 +117,27 @@
     "name": "Basilica Minore of Our Lady of Charity",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/8f/c2/this-location-is-only.jpg",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 16.3247042,
     "lng": 120.3550808,
     "loc": "Agoo"
-
+  },
+  {
+    "id": 217,
+    "name": "Boracay",
+    "imageUrl": "https://s-ec.bstatic.com/images/hotel/max1280x900/109/109903193.jpg",
+    "price": 0,
+    "priceCurrency": "Km",
+    "lat": 11.967939,
+    "lng": 121.920340,
+    "loc": "Agoo"
   },
   {
     "id": 215,
     "name": "Laron Residence",
     "imageUrl": "https://raw.githubusercontent.com/jeskkyy18/lu-spots/master/images/bahay.png",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 16.32410881265327,
     "lng": 120.3526100661835,
     "loc": "Agoo"
